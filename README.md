@@ -17,7 +17,7 @@ jobs:
   review-proof:
     runs-on: ubuntu-latest
     steps:
-      - uses: <org>/review-proof-action@v1
+      - uses: ftsrg-softeng/review-proof-action@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
