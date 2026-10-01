@@ -2,6 +2,8 @@
 
 Runs on `ubuntu-latest` (or another Ubuntu LTS runner) only.
 
+Licensed under [Apache License 2.0](LICENSE).
+
 ## Usage
 
 ```yaml
